@@ -15,6 +15,7 @@ spring-boot-starter-data-jdbc、Mongdb等jar时，里边会自动为我们配置
 @Configuration 注解配置了数据源，就会导致在加载一次，前后就会冲突，所以要排查springboot为我们自动加载的数据源
 
 **知识点二**
+
 连接池HikariCP的使用可以参考文件：
 org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration
 
