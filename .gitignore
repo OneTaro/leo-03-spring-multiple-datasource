@@ -6,6 +6,5 @@
 /mvnw
 /HELP.md
 /leo-03-spring-multiple-datasource.iml
-src/main/resources/static/
 src/main/resources/templates/
 src/test/

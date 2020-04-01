@@ -19,3 +19,11 @@ spring-boot-starter-data-jdbc、Mongdb等jar时，里边会自动为我们配置
 连接池HikariCP的使用可以参考文件：
 org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration
 
+
+
+### 多数据源、分库分表、读写分离的关系
+
+![多数据分库分表](src/main/resources/static/image/多数据分库分表.png)
+![中间件分库分表](src/main/resources/static/image/中间件分库分表.png)
+
+mycat、dble、sharing-jdbc
