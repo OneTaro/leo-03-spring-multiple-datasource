@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.multiple.data</groupId>
-    <artifactId>leo-03-spring-multiple-datasource</artifactId>
+    <artifactId>leo-003-spring-multiple-datasource</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>leo-03-spring-multiple-datasource</name>
+    <name>leo-003-spring-multiple-datasource</name>
     <description>Multiple datasource project for Spring Boot</description>
 
     <properties>

@@ -12,10 +12,10 @@ import org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class,
         DataSourceTransactionManagerAutoConfiguration.class,
         JdbcTemplateAutoConfiguration.class})
-public class Leo03SpringMultipleDatasourceApplication {
+public class Leo003SpringMultipleDatasourceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Leo03SpringMultipleDatasourceApplication.class, args);
+        SpringApplication.run(Leo003SpringMultipleDatasourceApplication.class, args);
     }
 
 }

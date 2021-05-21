@@ -5,6 +5,6 @@
 /target/
 /mvnw
 /HELP.md
-/leo-03-spring-multiple-datasource.iml
+/leo-003-spring-multiple-datasource.iml
 src/main/resources/templates/
 src/test/
